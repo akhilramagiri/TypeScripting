@@ -1,0 +1,16 @@
+Typescript  = Javascript +  A type system
+
+This type system  :
+    Catches errors during development.
+    User Type annotations to analyze code.
+    Only active during development.
+
+Writing typescript is same as writing Javascript with some extra documentation
+Typescript has no effect on how our code gets executed by the browser or Node
+It is best to think of TypeScript as being like a friend sitting behind you while you are coding
+
+Configurign type script : 
+
+npm install -g typescript ts-node 
+
+testing tsc --help
